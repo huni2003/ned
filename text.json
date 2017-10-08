@@ -1,7 +1,7 @@
 {
   "videolists": [
     {
-      "category": "英伦对决",
+      "category": "3D IMAX影院",
       "videos": [
         {
           "id": 0,
@@ -11,7 +11,7 @@
           ],
           "card": "birds_on_street_at_city_thumbnail.jpg",
           "background": "birds_on_street_at_city_bg.jpg",
-          "title": "Birds on street at city",
+          "title": "英伦对决",
           "studio": "Pexel: https://videos.pexels.com/videos/birds-on-street-at-city-485"
         },
         {
